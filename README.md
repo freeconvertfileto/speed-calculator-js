@@ -2,7 +2,7 @@
 
 Solve for speed, distance, or time given the other two values, with unit conversion across km/h, mph, m/s, and knots, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/speed-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/speed-calculator-online
 
 ## How It Works
 
